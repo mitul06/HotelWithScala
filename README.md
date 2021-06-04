@@ -1,0 +1,2 @@
+# ScalaProjectSample
+# HotelWithScala
